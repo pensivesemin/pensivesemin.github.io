@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thoughts on 세민 블로그</title>
+    <link>https://pensivesemin.github.io/thoughts/</link>
+    <description>Recent content in Thoughts on 세민 블로그</description>
+    <image>
+      <title>세민 블로그</title>
+      <url>https://pensivesemin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pensivesemin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Oct 2023 18:25:48 -0700</lastBuildDate><atom:link href="https://pensivesemin.github.io/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>헬조선</title>
+      <link>https://pensivesemin.github.io/thoughts/%ED%97%AC%EC%A1%B0%EC%84%A0/</link>
+      <pubDate>Wed, 04 Oct 2023 18:25:48 -0700</pubDate>
+      
+      <guid>https://pensivesemin.github.io/thoughts/%ED%97%AC%EC%A1%B0%EC%84%A0/</guid>
+      <description>일부러 자극적인 제목을 붙여봤다. 한국이 변해가는 과정이 안타까워서. 한국에서 사는 사람들은 그 전보다 더 부유해 졌는데 왜 더 우울할까? 나는 2017년 한국을 떠났다. 그 후 스위스에서 6년의 시간을 보냈고 현재 미국 로스엔젤레스에서 거주 중이다. 친구들과 종종 연락할 때면, 친구들은 &amp;lsquo;부럽다&amp;rsquo;, &amp;lsquo;해외에 살아서 좋겠다&amp;rsquo; 등등 부러움을 자주 표하곤 한다. 곰곰히 생각해보면 나도 한국을 떠나기 전, 막연하게 바깥세상 (특히 유럽/미국)에 대한 동경이 있었던 것 같다. 하지만 놀랍게도 해외에 거주하는 한국인들을 만나보면 대다수는 한국을 매우매우 그리워하며 이 경향은 나이가 많을수록 두드러졌다.</description>
+    </item>
+    
+  </channel>
+</rss>
